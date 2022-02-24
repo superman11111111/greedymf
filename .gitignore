@@ -1,0 +1,5 @@
+ungoogled/ 
+__pycache__/
+geckodriver* 
+*.json
+chromedriver
